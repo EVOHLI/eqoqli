@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\ElvinParse\obj\Debug\net5.0\ElvinParse.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\ElvinParse\obj\Debug\net5.0\ElvinParse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\ElvinParse\obj\Debug\net5.0\ElvinParse.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\ElvinParse\obj\Debug\net5.0\ElvinParse.AssemblyInfo.cs
+C:\Users\User\source\repos\ElvinParse\obj\Debug\net5.0\ElvinParse.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ElvinParse\bin\Debug\net5.0\ElvinParse.exe
+C:\Users\User\source\repos\ElvinParse\bin\Debug\net5.0\ElvinParse.deps.json
+C:\Users\User\source\repos\ElvinParse\bin\Debug\net5.0\ElvinParse.runtimeconfig.json
+C:\Users\User\source\repos\ElvinParse\bin\Debug\net5.0\ElvinParse.runtimeconfig.dev.json
+C:\Users\User\source\repos\ElvinParse\bin\Debug\net5.0\ElvinParse.dll
+C:\Users\User\source\repos\ElvinParse\bin\Debug\net5.0\ref\ElvinParse.dll
+C:\Users\User\source\repos\ElvinParse\bin\Debug\net5.0\ElvinParse.pdb
+C:\Users\User\source\repos\ElvinParse\obj\Debug\net5.0\ElvinParse.dll
+C:\Users\User\source\repos\ElvinParse\obj\Debug\net5.0\ref\ElvinParse.dll
+C:\Users\User\source\repos\ElvinParse\obj\Debug\net5.0\ElvinParse.pdb
+C:\Users\User\source\repos\ElvinParse\obj\Debug\net5.0\ElvinParse.genruntimeconfig.cache
